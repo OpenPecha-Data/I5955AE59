@@ -1,0 +1,16 @@
+id: I5955AE59
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.736016
+last_modified: 2023-02-08 15:15:38.736125
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: sa
+bases:
+  E222:
+    base_file: E222.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
